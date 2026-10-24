@@ -1,8 +1,8 @@
 window.CONFIG = {
   NAME: "Audacity",
   SYMBOL: "DCT",
-  CA: "0xCommingSoon",
-  X_LINK: "https://x.com/Audacity_Solana",
+  CA: "CommingSoon",
+  X_LINK: "https://x.com/audacity_sol",
   SOCIAL_LINK: "https://x.com/pxnkness/status/2112442384449441806",
-  BUY_LINK: "https://app.uniswap.org/swap"
+  BUY_LINK: ""
 };
